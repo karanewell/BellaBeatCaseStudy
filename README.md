@@ -13,6 +13,7 @@ I will be taking on the role of Junior Analyst assigned to the marketing analyst
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products. Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women. By 2016, Bellabeat had opened offices around the world and launched multiple products.
 ### 2.2 Characters and Products
 #### Characters
+Following a breakdown of the key stakeholders for the project
 * **Urška Sršen**: Bellabeat’s cofounder and Chief Creative Officer
 * **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
 * **Bellabeat marketing analytics team**: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy. 
