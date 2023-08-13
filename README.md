@@ -81,4 +81,5 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 ### Conclusion & Recommendations
 ## REFERENCES
 [Bellabeat](bellabeat.com)
+
 [Bad Data](https://www.coursera.org/lecture/data-preparation/what-is-bad-data-lHirM)
