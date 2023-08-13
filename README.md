@@ -44,7 +44,7 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 ### 2.2 Data Information & Parameters
 * Type: CSV
 * Files: 18
-* Respondents: 30
+* Participants: 30
 * Responses from: Amazon Mechanical Turk Survey
 * Timeframe: 03.12.2016-05.12.2016
 ## PHASE THREE: PROCESS
