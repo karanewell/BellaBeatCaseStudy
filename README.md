@@ -3,7 +3,7 @@
 
 ![BellaBeat Icon 4x4](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/32a0b72c-8429-4017-b790-e98929c9d9c1)
 # INTRODUCTION
-I will be taking on the role of Junior Analyst, working with the marketing analyst team for the company BellaBeat, a high-tech manufacturer of health-focused products for women that monitors biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. In meeting with the team, I have learned the company has the potential to become a larger player in the global smart device market. In order to answer key business questions I will follow the six steps of the data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**.
+I will be taking on the role of Junior Analyst, working with the marketing analyst team for the company BellaBeat, a high-tech manufacturer of health-focused products for women that monitors biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. In meeting with the team, I have learned the company has the potential to become a larger player in the global smart device market. To provide value to the team, and to answer key business questions, I will follow the six steps of the data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**.
 
 ## PHASE ONE: ASK
 *Define the problem and confirm stakeholder expectations*
