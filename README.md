@@ -11,7 +11,8 @@ I will be taking on the role of Junior Analyst assigned to the marketing analyst
 *Define the problem and confirm stakeholder expectations*
 ### 2.1 ABOUT THE COMPANY
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products. Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women. By 2016, Bellabeat had opened offices around the world and launched multiple products.
-![user-1275780_640](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/de2593d5-671b-402a-b9aa-7a009f9df56f)
+![Bellabeat_character Icon](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/4ab994fa-a476-469b-88c6-1571c71b112c)
+
 
 ### 2.2 Characters and Products
 #### Characters
