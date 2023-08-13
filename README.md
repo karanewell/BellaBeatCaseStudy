@@ -58,12 +58,14 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 * Timeframe: 03.12.2016-05.12.2016
 * Formats: Long and Wide datasets present
 ### 2.3 Data Integrity (ROCCC)
-
+* **Reliable**: LOW - Potential Sample Selection Bias present in the data collected. According to Fitbit sales and users in 2016 Fitbit had accumulated over 23 million users. The sample collected could vastly underrepresent the population of women Bellabeat seeks to attract for upcoming strategies with only 30 user responses in the dataset.
+* **Original**:
 ### 2.4 Data Limitations 
 
 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
+### Languages & Packages
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
 ## PHASE FIVE: SHARE
