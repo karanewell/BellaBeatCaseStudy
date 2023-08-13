@@ -18,6 +18,7 @@ Analyze smart device usage data in order to gain insight into how consumers use 
 *Collect and store data for analysis* 
 
 The data comes from ![FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (CC0: Public Domain license), stored on Kaggle and made available by ![Mobius](https://www.kaggle.com/arashnic).
+
 For the purpose of this case study any datasets will be in 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
