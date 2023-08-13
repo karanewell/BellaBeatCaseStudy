@@ -16,6 +16,7 @@ Analyze smart device usage data in order to gain insight into how consumers use 
    
 ## PHASE TWO: PREPARE
 *Collect and store data for analysis* 
+
 For the purpose of this case study any datasets will be in 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
