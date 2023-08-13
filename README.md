@@ -10,7 +10,7 @@ I will be taking on the role of Junior Analyst assigned to the marketing analyst
 ## PHASE ONE: ASK
 *Define the problem and confirm stakeholder expectations*
 ### ABOUT THE COMPANY
-Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products. Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women.
+Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products. Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women. By 2016, Bellabeat had opened offices around the world and launched multiple products.
 ### Characters and products
 #### Characters
 * **Urška Sršen**: Bellabeat’s cofounder and Chief Creative Officer
@@ -23,7 +23,8 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 * **Spring**: This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track your hydration levels.
 * **Bellabeat membership**: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness-based on their lifestyle and goals.
 ### Business Task
-Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices to help guide upcoming marketing strategies for the company. The analysis will be presented to the BellaBeat Executive Team. 
+The company has invested in traditional advertising media, such as radio, out-of-home billboards, print, and television, but focuses
+on digital marketing extensively. Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices to help guide upcoming marketing strategies for the company. The analysis will be presented to the BellaBeat Executive Team. 
 ### Business Objectives
 1. What are some trends in smart device usage? 
 2. How could these trends apply to BellaBeat customers? 
