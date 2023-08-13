@@ -1,6 +1,7 @@
 # BellaBeat Case Study
 *Examination and Analysis of BellaBeat - A Google Certificate Data Analytics case study* 
-![BellaBeat Icon](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/1056d2b8-dae2-4398-ba86-f5b36485cce9)
+![BellaBeat Icon 4x4](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/32a0b72c-8429-4017-b790-e98929c9d9c1)
+
 
 ## ASK
 ## PREPARE
