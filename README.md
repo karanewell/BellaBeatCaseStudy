@@ -24,4 +24,4 @@ For the purpose of this case study any datasets will be in
 ## PHASE FIVE: SHARE
 *Interpret and communicate results to make data-driven decisions*
 ## PHASE SIX: ACT
-*Put insights to work in order to solve original problem*
+*Put insights to work in order to solve the original problem*
