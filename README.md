@@ -64,8 +64,7 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 
 
 
-* **Reliable**: LOW  - Potential Sample Selection Bias present in the data collected. According to Fitbit sales and users in 2016 Fitbit had accumulated over 23 million users. The 
-sample collected could vastly underrepresent the population of women Bellabeat seeks to attract for upcoming strategies with only 30 user responses in the dataset.
+* **Reliable**: Potential Sample Selection Bias present in the data collected. According to Fitbit sales and users in 2016 Fitbit had accumulated over 23 million users. The sample collected could vastly underrepresent the population of women Bellabeat seeks to attract for upcoming strategies with only 30 user responses in the dataset. The reliability of the dataset is determined to be low. 
 * **Original**:
 ### 2.4 Data Limitations 
 
