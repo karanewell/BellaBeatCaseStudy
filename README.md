@@ -57,6 +57,9 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 ### 2.3 Data Integrity (ROCCC)
 
 ### 2.4 Data Limitations 
+
+![BellaBeat Source Files](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/0879dbea-1948-4992-9c5d-2dc087cad8ad)
+
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
 ## PHASE FOUR: ANALYZE
