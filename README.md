@@ -47,6 +47,10 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 * Participants: 30
 * Responses from: Amazon Mechanical Turk Survey
 * Timeframe: 03.12.2016-05.12.2016
+* Formats: Long and Wide datasets present
+### 2.3 Data Integrity (ROCCC)
+
+### 2.4 Data Limitations 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
 ## PHASE FOUR: ANALYZE
