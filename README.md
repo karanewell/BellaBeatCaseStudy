@@ -40,8 +40,13 @@ on digital marketing extensively. Analyze smart device usage data in order to ga
 ## PHASE TWO: PREPARE
 *Collect and store data for analysis* 
 ### 2.1 Dataset
-The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (CC0: Public Domain license), stored on Kaggle and made available by [Mobius](https://www.kaggle.com/arashnic). The data is open source. User has waived rights and is free to be used externally for analysis. 
-### 
+The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (CC0: Public Domain license), stored on Kaggle and made available by [Mobius](https://www.kaggle.com/arashnic). The data found is considered to be open source. User has waived rights as defined by public domain. Dataset is free to be used externally for analysis. Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
+### 2.2 Data Information & Parameters
+* Type: CSV
+* Files: 18
+* Respondents: 30
+* Responses from: Amazon Mechanical Turk Survey
+* Timeframe: 03.12.2016-05.12.2016
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
 ## PHASE FOUR: ANALYZE
