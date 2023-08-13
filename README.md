@@ -26,8 +26,8 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 * **Bellabeat app**: Provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
    * **Leaf**: Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace, or clip. The Leaf tracker connects to the Bellabeat app to track activity, sleep, and stress.
    * **Time**: Wellness watch combines the timeless look of a classic timepiece with smart technology to track user activity, sleep, and stress. The Time watch connects to the Bellabeat app to provide you with insights into your daily wellness
-   * **Spring**: A water bottle that tracks daily water intake using smart technology to ensure appropriate hyrdration throughout the day. The Spring bottle connects to the Bellabeat app to track hydration levels.
-* **Bellabeat membership**: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness-based on their lifestyle and goals.
+   * **Spring**: A water bottle that tracks daily water intake using smart technology to ensure appropriate hydration throughout the day. The Spring bottle connects to the Bellabeat app to track hydration levels.
+* **Bellabeat membership**: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness based on their lifestyle and goals.
 ### 2.3 Business Task
 The company has invested in traditional advertising media, such as radio, out-of-home billboards, print, and television, but focuses
 on digital marketing extensively. Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices to help guide upcoming marketing strategies for the company. The analysis will be presented to the BellaBeat Executive Team. 
@@ -64,19 +64,19 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 
 * **Reliable**: Potential Sample Selection Bias present in the data collected. In 2016 Fitbit had accumulated over 23 million users. The sample collected could vastly underrepresent the population of women Bellabeat seeks to attract for upcoming strategies with only 30 user responses in the dataset. The reliability of the dataset is determined to be low. 
 * **Original**: Mechanical Turk (MTurk) is a crowd-sourcing platform provided by Amazon that helps in the distribution of micro-tasks among a user-base of thousands of registered participants[^1] The originality score is rated low due to the method of crowd-sourcing through a third-party vendor to gather information from anonymous participants.
-* **Comprehensive**: 
+* **Comprehensive**: The provided datasets include many variables and can be considered comprehensive for the analysis based on the established business objectives for the project. However, the lack of contributing factors that encompass one's health such as age and health conditions potentially skew the data leaving the score between low and medium. 
 * **Current**: The data was gathered in 2016 and encompasses a time period of two months. The information is considered to be outdated and therefore receives a low score.
 * **Cited**:
 
 [^1]https://api.drum.lib.umd.edu/server/api/core/bitstreams/ad87d60f-4cfa-4f26-bda8-3d3984b3f5d1/content  
 ### 2.4 Data Limitations 
-
+Primary limitations in the data include, predetermined conditions of participants, validity of participants gender, unknown data surrounding age, small data sample compared to amount of users noted in the year of 2016 
 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
-### Languages & Packages
+### 3.1 Languages & Packages
 * R Programming Languages
-### Environments Used
+### 3.2 Environments Used
 * Windows 11
 * RStudio
 * Tableau
