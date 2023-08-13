@@ -66,8 +66,8 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 
 * **Reliable**: Potential Sample Selection Bias present in the data collected. In 2016 Fitbit had accumulated over 23 million users. The sample collected could vastly underrepresent the population of women Bellabeat seeks to attract for upcoming strategies with only 30 user responses in the dataset. The reliability of the dataset is determined to be low. 
 * **Original**: Mechanical Turk (MTurk) is a crowd-sourcing platform provided by Amazon that helps in the distribution of micro-tasks among a user-base of thousands of registered participants[^1] The originality score is rated low as crowd-sourced through a third-party vendor to gather information from anonymous participants.
-* **Comprehensive**:
-* **Current**:
+* **Comprehensive**: 
+* **Current**: The data was gathered in 2016 and encompasses a time period of two months. The information is considered to be outdated and therefore receives a low score.
 * **Cited**:
     
 ### 2.4 Data Limitations 
