@@ -78,3 +78,4 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 *Interpret and communicate results to make data-driven decisions*
 ## PHASE SIX: ACT
 *Put insights to work in order to solve the original problem*
+### Conclusion & Recommendations
