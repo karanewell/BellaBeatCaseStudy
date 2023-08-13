@@ -15,7 +15,7 @@ Analyze smart device usage data in order to gain insight into how consumers use 
 3. How could these trends help influence BellaBeat's marketing strategy?
    
 ## PHASE TWO: PREPARE
-*Collect and store data for analysis*
+*Collect and store data for analysis* 
 For the purpose of this case study any datasets will be in 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
