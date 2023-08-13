@@ -1,11 +1,11 @@
-# BellaBeat Case Study with R
-*Examination and Analysis of BellaBeat Products and Users - A Google Certificate Data Analytics case study* 
+# Bellabeat Case Study with R
+*Examination and Analysis of Bellabeat Products and Users - A Google Certificate Data Analytics case study* 
 
 ![BellaBeat Icon 4x4](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/32a0b72c-8429-4017-b790-e98929c9d9c1)
 # INTRODUCTION
 Welcome to my Google Capstone Project - Case Study 2: How Can a Wellness Technology Company Play It Smart?
 
-I will be taking on the role of Junior Analyst, working with the marketing analyst team for the company BellaBeat, a high-tech manufacturer of products for women that monitors biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. In meeting with the team, I have learned the company has the potential to become a larger player in the global smart device market. Urška Sršen, co-founder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. To provide value to the team, and to answer key business questions, I will follow the six steps of the data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**.
+I will be taking on the role of Junior Analyst, working with the marketing analyst team for the company Bellabeat, a high-tech manufacturer of products for women that monitors biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. In meeting with the team, I have learned the company has the potential to become a larger player in the global smart device market. Urška Sršen, co-founder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. To provide value to the team, and to answer key business questions, I will follow the six steps of the data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**.
 
 ## PHASE ONE: ASK
 *Define the problem and confirm stakeholder expectations*
@@ -17,7 +17,7 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 * **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
 * **Bellabeat marketing analytics team**: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy. You joined this team six months ago and have been busy learning about Bellabeat’’s mission and business goals — as well as how you, as a junior data analyst, can help Bellabeat achieve them.
 #### Products
-* **Bellabeat app**: The Bellabeat app provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
+* **Bellabeat app**: <span style='color: blue;'>Bellabeat App</span> The Bellabeat app provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
 * **Leaf**: Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace, or clip. The Leaf tracker connects to the Bellabeat app to track activity, sleep, and stress.
 * **Time**: This wellness watch combines the timeless look of a classic timepiece with smart technology to track user activity, sleep, and stress. The Time watch connects to the Bellabeat app to provide you with insights into your daily wellness
 * **Spring**: This is a water bottle that tracks daily water intake using smart technology to ensure that you are appropriately hydrated throughout the day. The Spring bottle connects to the Bellabeat app to track your hydration levels.
