@@ -68,11 +68,11 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 * **Original**: Mechanical Turk (MTurk) is a crowd-sourcing platform provided by Amazon that helps in the distribution of micro-tasks among a user-base of thousands of registered participants[^1] The originality score is rated low as crowd-sourced through a third-party vendor to gather information from anonymous participants.
 * **Comprehensive**: 
 * **Current**: The data was gathered in 2016 and encompasses a time period of two months. The information is considered to be outdated and therefore receives a low score.
-* **Cited**:
-    
+* **Cited**:  
+[^1]https://api.drum.lib.umd.edu/server/api/core/bitstreams/ad87d60f-4cfa-4f26-bda8-3d3984b3f5d1/content  
 ### 2.4 Data Limitations 
 
-[^1]https://api.drum.lib.umd.edu/server/api/core/bitstreams/ad87d60f-4cfa-4f26-bda8-3d3984b3f5d1/content
+
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
 ### Languages & Packages
