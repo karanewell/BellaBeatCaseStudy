@@ -8,7 +8,7 @@ I will be taking on the role of Junior Analyst, working with the marketing analy
 ## PHASE ONE: ASK
 *Define the problem and confirm stakeholder expectations*
 ### Business Task
-Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices to help guide upcoming marketing strategies for the company. The analysis will be presented to the BellaBeat executive Team. 
+Analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices to help guide upcoming marketing strategies for the company. The analysis will be presented to the BellaBeat Executive Team. 
 ### Business Objectives
 1. What are some trends in smart device usage? 
 2. How could these trends apply to BellaBeat customers? 
