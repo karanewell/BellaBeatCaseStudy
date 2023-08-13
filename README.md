@@ -13,6 +13,13 @@ Analyze smart device usage data in order to gain insight into how consumers use 
 1. What are some trends in smart device usage? 
 2. How could these trends apply to BellaBeat customers? 
 3. How could these trends help influence BellaBeat's marketing strategy?
+### Deliverables
+A clear summary of the business task
+A description of all data sources used
+Documentation of any cleaning or manipulation of data
+A summary of analysis
+Supporting visualizations and key findings
+High-level content recommendations based on the analysis
    
 ## PHASE TWO: PREPARE
 *Collect and store data for analysis* 
