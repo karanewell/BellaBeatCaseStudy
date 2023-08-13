@@ -79,7 +79,13 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 ## PHASE SIX: ACT
 *Put insights to work in order to solve the original problem*
 ### Conclusion & Recommendations
-## REFERENCES
+## References & Acknowledgements
+[FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
+
 [Bellabeat](bellabeat.com)
 
 [Coursera ROCCC](https://www.coursera.org/lecture/data-preparation/what-is-bad-data-lHirM)
+
+[Google Data Analytics Course](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+[Merit America](https://meritamerica.org/)
