@@ -70,7 +70,9 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 
 [^1]https://api.drum.lib.umd.edu/server/api/core/bitstreams/ad87d60f-4cfa-4f26-bda8-3d3984b3f5d1/content  
 ### 2.4 Data Limitations 
-Primary limitations in the data include, predetermined conditions of participants, validity of participants gender, unknown data surrounding age, small data sample compared to amount of users noted in the year of 2016. I will move forward with examining the data on hand and provide recommendations based on the trends. 
+Primary limitations in the data include, predetermined conditions of participants, validity of participants gender, unknown data surrounding age, small data sample compared to amount of users noted in the year of 2016. 
+
+I will move forward with examining the data on hand and provide recommendations based on the trends. 
 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
