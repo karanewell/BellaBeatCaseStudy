@@ -59,7 +59,9 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 * Formats: Long and Wide datasets present
 ### 2.3 Data Integrity (ROCCC)
 
-![Red Bellabeat Reliability](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/cc0b9552-b848-4296-9e87-36d408d29cff)
+![Red Bellabeat Reliability](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/cc0b9552-b848-4296-9e87-36d408d29cff)![Orange Bellabeat](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/564aaa6b-a86e-4786-891a-8f964722a680)![Green Bellabeat](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/ba8b6d87-edd6-4a43-adae-49081dc7e23d)
+
+
 
 
 * **Reliable**: LOW  - Potential Sample Selection Bias present in the data collected. According to Fitbit sales and users in 2016 Fitbit had accumulated over 23 million users. The 
