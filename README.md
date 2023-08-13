@@ -18,13 +18,9 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 ### 2.2 Characters and Products
 #### Characters
 *Following is a guide to the key stakeholders for the project:*
-
-    **[Primary]**
-* **Urška Sršen**: Bellabeat’s cofounder and Chief Creative Officer
-* **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
-  
-    **[Secondary]**
-* **Bellabeat marketing analytics team**: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy. 
+* **Urška Sršen**: Bellabeat’s co-founder and Chief Creative Officer (Primary)
+* **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team (Primary)
+* **Bellabeat marketing analytics team**: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy. (Secondary) 
 #### Products
 *Bellabeat has two main offerings in circulation and three retail products reliant on app connectivity for tracking:*
 * **Bellabeat app**: Provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
