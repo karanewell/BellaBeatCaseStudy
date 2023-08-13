@@ -18,8 +18,10 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 ### 2.2 Characters and Products
 #### Characters
 *Following is a guide to the key stakeholders for the project:*
+##### Primary
 * **Urška Sršen**: Bellabeat’s cofounder and Chief Creative Officer
 * **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
+##### Secondary
 * **Bellabeat marketing analytics team**: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy. 
 #### Products
 *Bellabeat has two main offerings in circulation and three retail products reliant on app connectivity for tracking:*
@@ -65,10 +67,10 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 
 
 * **Reliable**: Potential Sample Selection Bias present in the data collected. In 2016 Fitbit had accumulated over 23 million users. The sample collected could vastly underrepresent the population of women Bellabeat seeks to attract for upcoming strategies with only 30 user responses in the dataset. The reliability of the dataset is determined to be low. 
-* **Original**:
+* **Original**: Mechanical Turk (MTurk) is a crowd-sourcing platform provided by Amazon that helps in the distribution of micro-tasks among a user-base of thousands of registered participants[^1]
 ### 2.4 Data Limitations 
 
-
+[^1]https://api.drum.lib.umd.edu/server/api/core/bitstreams/ad87d60f-4cfa-4f26-bda8-3d3984b3f5d1/content
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
 ### Languages & Packages
