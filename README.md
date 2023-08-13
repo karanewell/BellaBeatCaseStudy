@@ -26,7 +26,7 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 * **Bellabeat app**: Provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
    * **Leaf**: Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace, or clip. The Leaf tracker connects to the Bellabeat app to track activity, sleep, and stress.
    * **Time**: Wellness watch combines the timeless look of a classic timepiece with smart technology to track user activity, sleep, and stress. The Time watch connects to the Bellabeat app to provide you with insights into your daily wellness
-   * **Spring**: A water bottle that tracks daily water intake using smart technology to ensure appropriate hyrdration throughout the day. The Spring bottle connects to the Bellabeat app to track your hydration levels.
+   * **Spring**: A water bottle that tracks daily water intake using smart technology to ensure appropriate hyrdration throughout the day. The Spring bottle connects to the Bellabeat app to track hydration levels.
 * **Bellabeat membership**: Bellabeat also offers a subscription-based membership program for users. Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health and beauty, and mindfulness-based on their lifestyle and goals.
 ### 2.3 Business Task
 The company has invested in traditional advertising media, such as radio, out-of-home billboards, print, and television, but focuses
