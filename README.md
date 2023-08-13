@@ -58,7 +58,10 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 * Timeframe: 03.12.2016-05.12.2016
 * Formats: Long and Wide datasets present
 ### 2.3 Data Integrity (ROCCC)
-* **Reliable**: ![Red Arrow](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/e3154edd-5920-4f0d-8e3e-0c2e34eba45a)  - Potential Sample Selection Bias present in the data collected. According to Fitbit sales and users in 2016 Fitbit had accumulated over 23 million users. The 
+
+![Red Bellabeat Reliability](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/cc0b9552-b848-4296-9e87-36d408d29cff)
+
+* **Reliable**: LOW  - Potential Sample Selection Bias present in the data collected. According to Fitbit sales and users in 2016 Fitbit had accumulated over 23 million users. The 
 sample collected could vastly underrepresent the population of women Bellabeat seeks to attract for upcoming strategies with only 30 user responses in the dataset.
 * **Original**:
 ### 2.4 Data Limitations 
