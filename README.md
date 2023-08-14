@@ -141,7 +141,7 @@ head(weightLogInfo)
 ```
 Using R allows commands across multiple files to be completed efficiently and quickly. 
 
-![Case Study - File Preview in R Environment](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/eb5dd6e0-42e5-4f3d-a0fa-45f6ac748438)
+![Case Study - File Preview in R Environment](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/1d0164b5-fe60-46e1-8278-c619597e9ab5)
 
 
 ## PHASE FOUR: ANALYZE
