@@ -139,6 +139,11 @@ head(minuteStepsNarrow)
 head(sleepDay)
 head(weightLogInfo)
 ```
+Using R allows commands across multiple files to be completed efficiently and quickly. 
+
+![Case Study - File Preview in R Environment](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/eb5dd6e0-42e5-4f3d-a0fa-45f6ac748438)
+
+
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
 ## PHASE FIVE: SHARE
