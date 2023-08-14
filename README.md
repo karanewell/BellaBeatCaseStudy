@@ -91,7 +91,7 @@ I will move forward with examining the data on hand and provide recommendations 
 * Tableau
 ### 3.3 Cleaning & Manipulation
 I began by renaming the files at folder origin by removing the word "merged" from the file's name. 
-I then loaded the following packages into RStudio.
+I then loaded the following packages into RStudio
 ```
 library(here)
 library(skimr)
