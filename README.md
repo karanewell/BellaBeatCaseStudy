@@ -119,9 +119,26 @@ minuteMETsNarrow <- read.csv("minuteMETsNarrow.csv", header = TRUE)
 minuteSleep <- read.csv("minuteSleep.csv", header = TRUE)
 minuteStepsNarrow <- read.csv("minuteStepsNarrow.csv", header = TRUE)
 sleepDay <- read.csv("sleepDay.csv", header = TRUE)
-weightLogInto <- read.csv("weightLogInfo.csv", header = TRUE)
+weightLogInfo <- read.csv("weightLogInfo.csv", header = TRUE)
 ```
-
+In order to preview the files I proceeded with running the block of code below
+```
+head(dailyActivity)
+head(dailyCalories)
+head(dailyIntensities)
+head(dailySteps)
+head(heartrate_seconds)
+head(hourlyCalories)
+head(hourlyIntensities)
+head(hourlySteps)
+head(minuteCaloriesNarrow)
+head(minuteIntesitiesNarrow)
+head(minuteMETsNarrow)
+head(minuteSleep)
+head(minuteStepsNarrow)
+head(sleepDay)
+head(weightLogInfo)
+```
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
 ## PHASE FIVE: SHARE
