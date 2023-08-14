@@ -145,7 +145,7 @@ Using R allows commands across multiple files to be completed efficiently and qu
 
 Initially I had to take into consideration which program to assess the datasets provided in the source file. Upon realizing several of the files contained thousands of rows, R was the ultimate choice. Since there are so many lines of data I wanted to prioritize seeing if all users were listed in each dataset. 
 
-Let's run the code using n-unique in conjunction with the ID columns.
+Let's run the code using n_unique in conjunction with the ID columns.
 
 ```
 n_unique(dailyActivity$Id)
@@ -164,7 +164,18 @@ n_unique(minuteStepsNarrow$Id)
 n_unique(sleepDay$Id)
 n_unique(weightLogInfo$Id)
 ```
+Through running this code we discover the total number of participants is actually 33. The following columns returned less than 33 participants 
 
+```
+> n_unique(heartrate_seconds$Id)
+[1] 14
+> n_unique(minuteSleep$Id)
+[1] 24
+> n_unique(sleepDay$Id)
+[1] 24
+> n_unique(weightLogInfo$Id)
+[1] 8
+```
 In order to assure accuracy in the datasets I will initiate the command to find the different types (character, integer, number) of each column contained within the data using STR command.
 
 ```
