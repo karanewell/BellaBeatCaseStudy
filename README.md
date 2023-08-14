@@ -92,16 +92,16 @@ I will move forward with examining the data on hand and provide recommendations 
 ### 3.3 Cleaning & Manipulation
 I began by renaming the files at folder origin by removing the word "merged" from the file's name. 
 I then loaded the following packages into RStudio
-
-[library(here)
+```
+library(here)
 library(skimr)
 library(tidyverse)
 library(dplyr)
 library(here)
 library(skimr)
 library(janitor)
-library(lubridate)]
-
+library(lubridate)
+```
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
 ## PHASE FIVE: SHARE
