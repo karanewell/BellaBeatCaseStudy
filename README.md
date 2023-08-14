@@ -145,7 +145,7 @@ Using R allows commands across multiple files to be completed efficiently and qu
 
 Initially I had to take into consideration which program to assess the datasets provided in the source file. Upon realizing several of the files contained thousands of rows, R was the ultimate choice. Since there are so many lines of data I wanted to prioritize seeing if all users were listed in each dataset. 
 
-Let's run the code using n_unique in conjunction with the ID columns.
+Let's run the code using n_unique in conjunction with the ID columns
 
 ```
 n_unique(dailyActivity$Id)
