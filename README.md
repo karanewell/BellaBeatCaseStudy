@@ -91,7 +91,7 @@ I will move forward with examining the data on hand and provide recommendations 
 * Tableau
 ### 3.3 Cleaning & Manipulation
 I began by renaming the files at folder origin by removing the word "merged" from the file's name. 
-I then loaded the following packages into RStudio
+I then loaded the following packages into RStudio.
 ```
 library(here)
 library(skimr)
@@ -102,6 +102,25 @@ library(skimr)
 library(janitor)
 library(lubridate)
 ```
+Next step included importing datasets contained in source file
+```
+dailyActivity <- read.csv("dailyActivity.csv", header = TRUE)
+dailyCalories <- read.csv("dailyCalories.csv", header = TRUE)
+dailyIntensities <- read.csv("dailyIntensities.csv", header = TRUE)
+dailySteps <- read.csv("dailySteps.csv", header = TRUE)
+heartrate_seconds <- read.csv("heartrate_seconds.csv", header = TRUE)
+hourlyCalories <- read.csv("hourlyCalories.csv", header = TRUE)
+hourlyIntensities <- read.csv("hourlyIntensities.csv", header = TRUE)
+hourlySteps <- read.csv("hourlySteps.csv", header = TRUE)
+minuteCaloriesNarrow <- read.csv("minuteCaloriesNarrow.csv", header = TRUE)
+minuteIntesitiesNarrow <- read.csv("minuteIntensitiesNarrow.csv", header = TRUE)
+minuteMETsNarrow <- read.csv("minuteMETsNarrow.csv", header = TRUE)
+minuteSleep <- read.csv("minuteSleep.csv", header = TRUE)
+minuteStepsNarrow <- read.csv("minuteStepsNarrow.csv", header = TRUE)
+sleepDay <- read.csv("sleepDay.csv", header = TRUE)
+weightLogInto <- read.csv("weightLogInfo.csv", header = TRUE)
+```
+
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
 ## PHASE FIVE: SHARE
