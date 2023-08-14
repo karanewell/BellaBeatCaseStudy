@@ -103,6 +103,7 @@ library(janitor)
 library(lubridate)
 ```
 Next step included importing datasets contained in source file
+
 ```
 dailyActivity <- read.csv("dailyActivity.csv", header = TRUE)
 dailyCalories <- read.csv("dailyCalories.csv", header = TRUE)
