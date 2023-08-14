@@ -143,6 +143,33 @@ Using R allows commands across multiple files to be completed efficiently and qu
 
 ![Case Study - File Preview in R Environment](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/1d0164b5-fe60-46e1-8278-c619597e9ab5)
 
+Initially I had to take into consideration which program to assess the datasets provided in the source file. Upon realizing several of the files contained thousands of rows, R was the ultimate choice. Since there are so many lines of data I wanted to prioritize seeing if all users were listed in each dataset. 
+
+Let's run the code using n-unique in conjunction with the ID columns.
+
+```
+n_unique(dailyActivity$Id)
+n_unique(dailyCalories$Id)
+n_unique(dailyIntensities$Id)
+n_unique(dailySteps$Id)
+n_unique(heartrate_seconds$Id)
+n_unique(hourlyCalories$Id)
+n_unique(hourlyIntensities$Id)
+n_unique(hourlySteps$Id)
+n_unique(minuteCaloriesNarrow$Id)
+n_unique(minuteIntesitiesNarrow$Id)
+n_unique(minuteMETsNarrow$Id)
+n_unique(minuteSleep$Id)
+n_unique(minuteStepsNarrow$Id)
+n_unique(sleepDay$Id)
+n_unique(weightLogInfo$Id)
+```
+
+In order to assure accuracy in the datasets I will initiate the command to find the different types (character, integer, number) of each column contained within the data using STR command.
+
+```
+
+```
 
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
