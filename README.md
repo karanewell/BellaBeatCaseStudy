@@ -102,7 +102,7 @@ library(skimr)
 library(janitor)
 library(lubridate)
 ```
-Next step included importing datasets located in the working directory
+The next step included importing datasets located in the working directory.
 
 ```
 dailyActivity <- read.csv("dailyActivity.csv", header = TRUE)
@@ -121,7 +121,7 @@ minuteStepsNarrow <- read.csv("minuteStepsNarrow.csv", header = TRUE)
 sleepDay <- read.csv("sleepDay.csv", header = TRUE)
 weightLogInfo <- read.csv("weightLogInfo.csv", header = TRUE)
 ```
-In order to preview the files I proceeded with running the block of code below
+In order to preview the files I proceeded with running the block of code below.
 ```
 head(dailyActivity)
 head(dailyCalories)
@@ -139,13 +139,13 @@ head(minuteStepsNarrow)
 head(sleepDay)
 head(weightLogInfo)
 ```
-Using R allows commands across multiple files to be completed efficiently and quickly 
+Using R allows commands across multiple files to be completed efficiently and quickly. 
 
 ![Case Study - File Preview in R Environment](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/1d0164b5-fe60-46e1-8278-c619597e9ab5)
 
-Initially I had to take into consideration which program to assess the datasets provided in the source file. Upon realizing several of the files contained thousands of rows, R was the ultimate choice. Since there are so many lines of data I wanted to prioritize seeing if all users were listed in each dataset. 
+Initially, I had to take into consideration which program to assess the datasets provided in the source file. Upon realizing several of the files contained thousands of rows, R was the ultimate choice. Since there are so many lines of data I wanted to prioritize seeing if all users were listed in each dataset. 
 
-Let's run the code using n_unique in conjunction with the ID columns
+Let's run the code using n_unique in conjunction with the ID columns.
 
 ```
 n_unique(dailyActivity$Id)
@@ -164,7 +164,7 @@ n_unique(minuteStepsNarrow$Id)
 n_unique(sleepDay$Id)
 n_unique(weightLogInfo$Id)
 ```
-Through running this code we discover the total number of participants is actually 33. The following columns returned less than 33 participants 
+Through running this code we discover the total number of participants is more accurately equal to 33. The following columns returned less than 33 participants. 
 
 ```
 > n_unique(heartrate_seconds$Id)
@@ -176,6 +176,8 @@ Through running this code we discover the total number of participants is actual
 > n_unique(weightLogInfo$Id)
 [1] 8
 ```
+Until further information can be gathered weightLogInfo and heartrate_seconds datasets will be disregarded from the case study as the sample size is too small to be conclusive.
+
 In order to assure accuracy in the datasets I will initiate the command to find the different types (character, integer, number) of each column contained within the data using STR command.
 
 ```
