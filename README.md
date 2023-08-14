@@ -102,7 +102,7 @@ library(skimr)
 library(janitor)
 library(lubridate)
 ```
-Next step included importing datasets contained in source file
+Next step included importing datasets located in the working directory
 
 ```
 dailyActivity <- read.csv("dailyActivity.csv", header = TRUE)
