@@ -177,7 +177,7 @@ Through running this code we discover the total number of participants is more a
 ```
 Until further information can be gathered *weightLogInfo* and *heartrate_seconds* datasets will be disregarded from the case study as the sample sizes are too small to be conclusive.
 
-In order to assure accuracy in the datasets I will initiate the command to find the different types (character, integer, number) of each column contained within the data using STR command.
+In order to assure accuracy in the datasets I will initiate the command to find the different types (character, integer, numeric) of each column contained within the data using STR command.
 
 ```
 str(dailyActivity)
