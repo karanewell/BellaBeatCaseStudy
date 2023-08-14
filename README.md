@@ -95,11 +95,10 @@ I then loaded the following packages into RStudio and opted for long (or Narrow)
 ```
 library(here)
 library(skimr)
+library(janitor)
 library(tidyverse)
 library(dplyr)
-library(here)
-library(skimr)
-library(janitor)
+library(ggplot2)
 library(lubridate)
 ```
 The next step included importing datasets located in the working directory.
@@ -181,7 +180,19 @@ Until further information can be gathered *weightLogInfo* and *heartrate_seconds
 In order to assure accuracy in the datasets I will initiate the command to find the different types (character, integer, number) of each column contained within the data using STR command.
 
 ```
-
+str(dailyActivity)
+str(dailyCalories)
+str(dailyIntensities)
+str(dailySteps)
+str(hourlyCalories)
+str(hourlyIntensities)
+str(hourlySteps)
+str(minuteCaloriesNarrow)
+str(minuteIntesitiesNarrow)
+str(minuteMETsNarrow)
+str(minuteSleep)
+str(minuteStepsNarrow)
+str(sleepDay)
 ```
 
 ## PHASE FOUR: ANALYZE
