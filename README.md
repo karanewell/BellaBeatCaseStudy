@@ -70,14 +70,18 @@ The data is sourced from [FitBit Fitness Tracker Data](https://www.kaggle.com/da
 
 [^1]https://api.drum.lib.umd.edu/server/api/core/bitstreams/ad87d60f-4cfa-4f26-bda8-3d3984b3f5d1/content  
 ### 2.4 Data Limitations 
-Primary limitations in the data provided include: predetermined conditions of participants, the validity of participant gender, unknown data surrounding age, small data sample compared to amount of total 2016 FitBit users. May contain human error if any included values were manually inputted into the system.  
+Primary limitations in the data provided include: predetermined conditions of participants, the validity of participant gender, unknown data surrounding age, small data sample compared to amount of total 2016 23 million FitBit users. May contain human error if any included values were manually inputted into the tracking system.  
 
 I will move forward with examining the data on hand and provide recommendations based on the trends. 
 
 ## PHASE THREE: PROCESS
 *Clean and transform data to ensure integrity*
 ### 3.1 Languages & Packages
-* R Programming Languages
+* R programming language
+* tidyverse: A collection of R packages for data wrangling and visualization.
+* lubridate: A package for working with dates and times in R.
+* ggplot2: A data visualization package in R.
+* dplyr: A package for data manipulation in R.
 ### 3.2 Environments Used
 * Windows 11
 * RStudio
@@ -93,6 +97,8 @@ I will move forward with examining the data on hand and provide recommendations 
 [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 [Bellabeat](bellabeat.com)
+
+[FitBit Data Statistics](https://www.businessofapps.com/data/fitbit-statistics/)
 
 [Coursera ROCCC](https://www.coursera.org/lecture/data-preparation/what-is-bad-data-lHirM)
 
