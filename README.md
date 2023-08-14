@@ -197,11 +197,13 @@ str(sleepDay)
 
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
+Determine the significance of removed datasets. Both heart rate and weight can be gathered by participants in order to better to understand consumer activity. As such with the limited data, and lack of participants these two datasets were deemed inconclusive and unreliable. 
 ## PHASE FIVE: SHARE
 *Interpret and communicate results to make data-driven decisions*
 ## PHASE SIX: ACT
 *Put insights to work in order to solve the original problem*
 ### Conclusion & Recommendations
+
 ## References & Acknowledgements
 [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
