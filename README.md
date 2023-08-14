@@ -78,8 +78,11 @@ I will move forward with examining the data on hand and provide recommendations 
 *Clean and transform data to ensure integrity*
 ### 3.1 Languages & Packages
 * R programming language
-* tidyverse: A collection of R packages for data wrangling and visualization.
 * lubridate: A package for working with dates and times in R.
+* here: A simpler way to find your files
+* skimr: Compact and flexible summaries of Data
+* janitor: Simple tools for examing and cleaning Dirty Data
+* tidyverse: A collection of R packages for data wrangling and visualization.
 * ggplot2: A data visualization package in R.
 * dplyr: A package for data manipulation in R.
 ### 3.2 Environments Used
