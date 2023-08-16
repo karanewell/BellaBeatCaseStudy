@@ -82,13 +82,13 @@ I will move forward with examining the data on hand and provide recommendations 
 * Tableau
 ### 3.3 Cleaning & Manipulation 
 
-INITIAL Observations - if automatically tracked - several user's data was set to 0 across several days for step count. In the time span of the participants there were many rows and dates note included in the sleep data.
+INITIAL Observations - if automatically tracked - several user's data was set to 0 - analyze averages with and without this information (primary sleeping hours). In the time span of the participants there were many rows and dates note included in the sleep data.
 
 For the purpose of this case study I will be looking at daily habits and consumer usage along with hourly data provided from the participants. If the company finds minute details are necessary the team can create a plan to move forward with examining at a later date. 
 
 I started my process by creating two new Google spreadsheet files and naming them "dailyActivity_all" and "hourlyActivity_all" respectively. I cleaned the date columns by ensuring the tabs each had the mm/dd/yyyy format and separated date and time into two separate columns in the hourly spreadsheet. 
 
-There were a handful of label title inconsistencies which I proceeded to update: Moderate vs Fairly, Light vs Lightly, and SedentaryMinutes vs SedentaryActiveMinutes
+There were a handful of label title inconsistencies which I proceeded to update: Moderate vs Fairly, Light vs Lightly, and SedentaryMinutes vs SedentaryActiveMinutes and StepTotal vs TotalSteps
 
 The hourly spreadsheet includes: steps, calories, and intensity
 
