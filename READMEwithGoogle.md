@@ -124,6 +124,7 @@ Through running this code we discover the total number of participants is more a
 
 The following columns returned limited participants: heartrate_seconds: 14 and weightLogInfo: 8
 
+Although the source had stated the survey date range was March, upon further review by sorting A-Z the begin date is stated as 4/12/2016
 
 ## PHASE FIVE: SHARE
 *Interpret and communicate results to make data-driven decisions*
