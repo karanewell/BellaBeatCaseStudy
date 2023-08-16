@@ -81,7 +81,7 @@ I will move forward with examining the data on hand and provide recommendations 
 * Google Sheets
 * Tableau
 ### 3.3 Cleaning & Manipulation 
-```
+
 INITIAL Observations - if automatically tracked - several users data was set to 0 across several days
 
 
