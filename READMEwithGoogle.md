@@ -121,8 +121,8 @@ The following columns returned limited participants: heartrate_seconds: 14 and w
 *Put insights to work in order to solve the original problem*
 ### Conclusion & Recommendations
 Production and Marketing Opportunities:
-* Weight Scale “Beat the Scale” connected to the app to reduce potential error of manual input and increase frequency and interest for use of product to better understand ones metrics and habits
-* Wearable band for nightime tracking to ensure users are getting a wholistic view of their health and includes regular heart monitoring
+* Weight Scale “Beat the Scale” connected to the app to reduce potential error of manual input and increase frequency and interest for use of product to better understand one's metrics and habits
+* Wearable band for nighttime tracking to ensure users are getting a holistic view of their health and include regular heart monitoring
 
 Future Projects:
 Extensive heart rate and weight data can be gathered by participants in order to better understand consumer activity as such with the limited data, and lack of participants these datasets were deemed inconclusive and unreliable. Determine the significance of removed datasets at a later date as necessary.
