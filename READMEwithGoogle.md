@@ -89,10 +89,10 @@ For the purpose of this case study I will be looking at daily habits and consume
 I started my process by creating two new Google spreadsheet files and naming them "dailyActivity_all" and "hourlyActivity_all" respectively. I cleaned the date columns by ensuring the tabs each had the mm/dd/yyyy format and separated date and time into two separate columns in the hourly spreadsheet. 
 
 There were a handful of label title inconsistencies which I proceeded to update: 
-* Fairly vs Moderately 
-* Light vs Lightly
-* SedentaryActiveMinutes vs SedentaryMinutes and
-* StepTotal vs TotalSteps
+* **Fairly vs Moderately** 
+* **Light vs Lightly**
+* **SedentaryActiveMinutes vs SedentaryMinutes** and
+* **StepTotal vs TotalSteps**
 
 The hourly spreadsheet includes: steps, calories, and intensity
 
