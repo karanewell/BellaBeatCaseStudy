@@ -82,7 +82,7 @@ I will move forward with examining the data on hand and provide recommendations 
 * Tableau
 ### 3.3 Cleaning & Manipulation 
 
-INITIAL Observations - if automatically tracked - several users data was set to 0 across several days
+INITIAL Observations - if automatically tracked - several user's data was set to 0 across several days for step count.
 
 
 ## PHASE FOUR: ANALYZE
