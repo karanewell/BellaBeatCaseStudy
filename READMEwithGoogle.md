@@ -14,7 +14,6 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 
 ![Bellabeat_character Icon](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/4ab994fa-a476-469b-88c6-1571c71b112c)
 
-
 ### 2.2 Characters and Products
 #### Characters
 *Following is a guide to the key stakeholders for the project:*
