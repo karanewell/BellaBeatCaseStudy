@@ -96,16 +96,16 @@ There were a handful of label title inconsistencies which I proceeded to update:
 
 The hourly spreadsheet includes: steps, calories, and intensity
 
-I then applied "Trim Whitespace" and "Remove Duplicates" with the data cleanup tool to remove any whitespace and duplicates within the dataset. 
-
-![DailyActivity  - Remove duplicates](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/3b775e98-f2ae-4580-8f7c-0b5e331473dc)
-
-
-From there I created a weekday column to better assist with my trend analysis later on. 
+I created a weekday column to better assist with my trend analysis later on. 
 
 ```
 =CHOOSE(WEEKDAY(B2,2),"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
 ```
+
+I then applied "Trim Whitespace" and "Remove Duplicates" with the data cleanup tool to remove any whitespace and duplicates within the dataset. 
+
+![DailyActivity  - Remove duplicates](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/3b775e98-f2ae-4580-8f7c-0b5e331473dc)
+
 
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
