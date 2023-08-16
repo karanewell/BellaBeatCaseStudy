@@ -84,6 +84,15 @@ I will move forward with examining the data on hand and provide recommendations 
 
 INITIAL Observations - if automatically tracked - several user's data was set to 0 across several days for step count.
 
+For the purpose of this case study I will be looking at daily habits and consumer usage along with hourly data provided from the participants. If company finds minute details are necessary the team can create a plan to move forward with examining at a later date. 
+
+I started my process by creating two new Google spreadsheet files and naming them "dailyActivity_all" and "hourlyActivity_all" respectively. I cleaned the date columns by ensuring the tabs each had the mm/dd/yyyy format and separated date and time in the hourly spreadsheet.
+
+From there I created a weekday column to better assist with my trend analysis later on. 
+
+```
+=CHOOSE(WEEKDAY(B2,2),"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
+```
 
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
