@@ -80,17 +80,27 @@ I will move forward with examining the data on hand and provide recommendations 
 * Windows 11
 * Google Sheets
 * Tableau
+  
 ### 3.3 Cleaning & Manipulation 
 
-INITIAL Observations - if automatically tracked - several user's data was set to 0 - analyze averages with and without this information (primary sleeping hours). In the time span of the participants there were many rows and dates note included in the sleep data.
+INITIAL Observations - if automatically tracked - several user's data was set to 0 - analyze averages with and without this information (primary sleeping hours). In the time span of the participants there were many rows and dates not included in the sleep data.
 
 For the purpose of this case study I will be looking at daily habits and consumer usage along with hourly data provided from the participants. If the company finds minute details are necessary the team can create a plan to move forward with examining at a later date. 
 
 I started my process by creating two new Google spreadsheet files and naming them "dailyActivity_all" and "hourlyActivity_all" respectively. I cleaned the date columns by ensuring the tabs each had the mm/dd/yyyy format and separated date and time into two separate columns in the hourly spreadsheet. 
 
-There were a handful of label title inconsistencies which I proceeded to update: Moderate vs Fairly, Light vs Lightly, and SedentaryMinutes vs SedentaryActiveMinutes and StepTotal vs TotalSteps
+There were a handful of label title inconsistencies which I proceeded to update: 
+* Fairly vs Moderately 
+* Light vs Lightly
+* SedentaryActiveMinutes vs SedentaryMinutes and
+* StepTotal vs TotalSteps
 
 The hourly spreadsheet includes: steps, calories, and intensity
+
+I then applied "Trim Whitespace" and "Remove Duplicates" with the data cleanup tool to remove any whitespace and duplicates within the dataset. 
+
+![DailyActivity  - Remove duplicates](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/3b775e98-f2ae-4580-8f7c-0b5e331473dc)
+
 
 From there I created a weekday column to better assist with my trend analysis later on. 
 
