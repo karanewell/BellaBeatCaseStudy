@@ -82,11 +82,15 @@ I will move forward with examining the data on hand and provide recommendations 
 * Tableau
 ### 3.3 Cleaning & Manipulation 
 
-INITIAL Observations - if automatically tracked - several user's data was set to 0 across several days for step count.
+INITIAL Observations - if automatically tracked - several user's data was set to 0 across several days for step count. In the time span of the participants there were many rows and dates note included in the sleep data.
 
-For the purpose of this case study I will be looking at daily habits and consumer usage along with hourly data provided from the participants. If company finds minute details are necessary the team can create a plan to move forward with examining at a later date. 
+For the purpose of this case study I will be looking at daily habits and consumer usage along with hourly data provided from the participants. If the company finds minute details are necessary the team can create a plan to move forward with examining at a later date. 
 
-I started my process by creating two new Google spreadsheet files and naming them "dailyActivity_all" and "hourlyActivity_all" respectively. I cleaned the date columns by ensuring the tabs each had the mm/dd/yyyy format and separated date and time in the hourly spreadsheet.
+I started my process by creating two new Google spreadsheet files and naming them "dailyActivity_all" and "hourlyActivity_all" respectively. I cleaned the date columns by ensuring the tabs each had the mm/dd/yyyy format and separated date and time into two separate columns in the hourly spreadsheet. 
+
+There were a handful of label title inconsistencies which I proceeded to update: Moderate vs Fairly, Light vs Lightly, and SedentaryMinutes vs SedentaryActiveMinutes
+
+The hourly spreadsheet includes: steps, calories, and intensity
 
 From there I created a weekday column to better assist with my trend analysis later on. 
 
@@ -97,7 +101,20 @@ From there I created a weekday column to better assist with my trend analysis la
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
 
-Determine the significance of removed datasets. Both heart rate and weight can be gathered by participants in order to better to understand consumer activity. As such with the limited data, and lack of participants these two datasets were deemed inconclusive and unreliable. 
+Using the formula =COUNTUNIQUE I was able to gather the distinct values of the Id column in each tab to validate the number of participants 
+
+-daily_activity: 33
+-sleep_recorded_days: 24
+-hourly:
+  -steps: 33
+  -calories: 33
+  -intensity: 33
+
+Through running this code we discover the total number of participants is more accurately equal to 33. 
+
+The following columns returned limited participants: heartrate_seconds: 14 and weightLogInfo: 8
+
+
 ## PHASE FIVE: SHARE
 *Interpret and communicate results to make data-driven decisions*
 ## PHASE SIX: ACT
@@ -106,6 +123,10 @@ Determine the significance of removed datasets. Both heart rate and weight can b
 Production and Marketing Opportunities:
 * Weight Scale “Beat the Scale” connected to the app to reduce potential error of manual input and increase frequency and interest for use of product to better understand ones metrics and habits
 * Wearable band for nightime tracking to ensure users are getting a wholistic view of their health and includes regular heart monitoring
+
+Future Projects:
+Extensive heart rate and weight data can be gathered by participants in order to better understand consumer activity as such with the limited data, and lack of participants these datasets were deemed inconclusive and unreliable. Determine the significance of removed datasets at a later date as necessary.
+
 ## References & Acknowledgements
 [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
