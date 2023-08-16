@@ -103,12 +103,12 @@ From there I created a weekday column to better assist with my trend analysis la
 
 Using the formula =COUNTUNIQUE I was able to gather the distinct values of the Id column in each tab to validate the number of participants 
 
--daily_activity: 33
--sleep_recorded_days: 24
--hourly:
-  -steps: 33
-  -calories: 33
-  -intensity: 33
+* daily_activity: 33
+* sleep_recorded_days: 24
+* hourly:
+  * steps: 33
+  * calories: 33
+  * intensity: 33
 
 Through running this code we discover the total number of participants is more accurately equal to 33. 
 
