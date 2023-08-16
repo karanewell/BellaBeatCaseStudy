@@ -106,6 +106,7 @@ I then applied "Trim Whitespace" and "Remove Duplicates" with the data cleanup t
 
 ![DailyActivity  - Remove duplicates](https://github.com/karanewell/BellaBeatCaseStudy/assets/141681843/3b775e98-f2ae-4580-8f7c-0b5e331473dc)
 
+Removed TrackerDistance column from daily_activity as data was replicated in TotalDistance column
 
 ## PHASE FOUR: ANALYZE
 *Utilize data analysis tools to draw conclusions*
@@ -126,15 +127,18 @@ The following columns returned limited participants: heartrate_seconds: 14 and w
 
 ## PHASE FIVE: SHARE
 *Interpret and communicate results to make data-driven decisions*
+
 ## PHASE SIX: ACT
 *Put insights to work in order to solve the original problem*
 ### Conclusion & Recommendations
+Through understanding the data and consumer usage the company can determine the next phases for a successful marketing strategy. The information provided shows what days are most popular, and times of the day users are most likely to use the product. The company can plan events and challenges around the data in this analysis. The marketing team had a handful of takeaways.
+
 Production and Marketing Opportunities:
 * Weight Scale “Beat the Scale” connected to the app to reduce potential error of manual input and increase frequency and interest for use of product to better understand one's metrics and habits
 * Wearable band for nighttime tracking to ensure users are getting a holistic view of their health and include regular heart monitoring
 
 Future Projects:
-Extensive heart rate and weight data can be gathered by participants in order to better understand consumer activity as such with the limited data, and lack of participants these datasets were deemed inconclusive and unreliable. Determine the significance of removed datasets at a later date as necessary.
+Extensive heart rate and weight data can be gathered by participants in order to better understand consumer activity as such with the limited data, and lack of participants, these datasets were deemed inconclusive and unreliable. Determine the significance of removed datasets at a later date as necessary.
 
 ## References & Acknowledgements
 [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
